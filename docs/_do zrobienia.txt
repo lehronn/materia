@@ -1,8 +1,8 @@
 ﻿# do zrobienia
-dodać path do package.json żeby można było robić krótsze importy
-react-router napisać osobny plik router i zrobić demo na start
 prop-types instead PropTypes
 styled components instead styles in react
+====
+jakie wtyczki do vs code są potrzebne żeby to działało? jest
 skrypty dla npm npx napisać i ustalić co i jak z i npmem. taski scripts itd DODAĆ ENV w package żeby krótsze importy móc robić!!!!
 yarn + webpack = opisać w dokumentacji skryptty komendy i konfigurację i instalacje
 dodać progressive we apps konfiguracja tego service-worker.js
@@ -18,9 +18,16 @@ własna biblioteka css
 	plik readme i repo na githubie
 zobaczyć jak działają testy jakiesś, jest np?
 czy mogę zmienić licencję po ejectowaniu?
+
+#do zrobienia kiedy w wolnej chwili
+dodać path do package.json żeby można było robić krótsze importy - teraz tego nie robi bo trzeba pod windowsem instalować npm run all a jest to problematyczne, w zamian importy beda krotsze o jedna kropke...
+
+
 dodać jakiś szablon gimpowo affinitowo photoshopowy z gridem?
 
 # co już wprowadzone
+react-router napisać osobny plik router i zrobić demo na start
+ustawienia pod vs code testowanie jest i eslint (jsdom)
 ustawiony git ignore
 ejectowany create react app
 zmieniona struktura katalogów
