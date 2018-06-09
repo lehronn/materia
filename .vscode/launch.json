@@ -19,7 +19,7 @@
             "protocol": "inspector",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen"
-        }
+        },
         {
             "type": "node",
             "name": "vscode-jest-tests",

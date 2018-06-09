@@ -1,8 +1,12 @@
 ﻿# do zrobienia
-prop-types instead PropTypes
 styled components instead styles in react
 ====
-jakie wtyczki do vs code są potrzebne żeby to działało? jest
+jakie wtyczki do vs code są potrzebne żeby to działało? 
+	jest, 
+	jak zrobić instalację flow
+	Make sure you have a .flowconfig file in your workspace.
+	Make sure you are able to run the flow command from the command line (or see Configuration to customize the command or use NPM packaged flow).
+	Set javascript.validate.enable option to false or completely disable the built-in TypeScript extension for your project (see gif below):
 skrypty dla npm npx napisać i ustalić co i jak z i npmem. taski scripts itd DODAĆ ENV w package żeby krótsze importy móc robić!!!!
 yarn + webpack = opisać w dokumentacji skryptty komendy i konfigurację i instalacje
 dodać progressive we apps konfiguracja tego service-worker.js
@@ -16,6 +20,7 @@ własna biblioteka css
 	jakieś modale gotowe? navbary? menusy wyskakujące? albo takie sticky?
 	*szybkie demo gridu i innych klas*
 	plik readme i repo na githubie
+	napisać że inspiracją był miligram css, całość bazuje też na bootstrapie i create react app
 zobaczyć jak działają testy jakiesś, jest np?
 czy mogę zmienić licencję po ejectowaniu?
 
@@ -26,6 +31,7 @@ dodać path do package.json żeby można było robić krótsze importy - teraz t
 dodać jakiś szablon gimpowo affinitowo photoshopowy z gridem?
 
 # co już wprowadzone
+skonfigurowany flow
 react-router napisać osobny plik router i zrobić demo na start
 ustawienia pod vs code testowanie jest i eslint (jsdom)
 ustawiony git ignore

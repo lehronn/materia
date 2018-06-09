@@ -1,3 +1,4 @@
+// @flow
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 
@@ -11,7 +12,7 @@ import NoFound from '../components/NoFound';
 
 import './App.scss';
 
-class App extends Component {
+class App extends Component <{}> {
   render() {
     return (
       <div className="App">
@@ -39,8 +40,7 @@ class App extends Component {
             </Switch>
           </div>
         </Router>
-
-        </div>
+      </div>
     );
   }
 }

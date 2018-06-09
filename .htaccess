@@ -1,5 +1,0 @@
-#If you’re using Apache HTTP Server, you need to create a .htaccess file in the public folder that looks like this:
-  Options -MultiViews
-  RewriteEngine On
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteRule ^ index.html [QSA,L]
