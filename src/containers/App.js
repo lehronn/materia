@@ -10,6 +10,7 @@ import History from '../components/History';
 import Future from '../components/Future';
 import NoFound from '../components/NoFound';
 
+import '../utils/energia/energia.scss';
 import './App.scss';
 
 class App extends Component <{}> {
@@ -29,6 +30,7 @@ class App extends Component <{}> {
               <li><Link to="/Bio/History">Bio/History</Link></li>
               <li><Link to="/Bio/Future">Bio/Future</Link></li>
             </ul>
+            
             <Switch>
               <Route exact path="/" component={Home} />
               <Route path="/About" component={About} />

@@ -1,5 +1,6 @@
 ﻿# do zrobienia
-styled components instead styles in react
+styles in react
+Atomic CSS OOCSS BEM CSS itd?
 ====
 jakie wtyczki do vs code są potrzebne żeby to działało? 
 	jest, 
@@ -9,7 +10,6 @@ jakie wtyczki do vs code są potrzebne żeby to działało?
 	Set javascript.validate.enable option to false or completely disable the built-in TypeScript extension for your project (see gif below):
 skrypty dla npm npx napisać i ustalić co i jak z i npmem. taski scripts itd DODAĆ ENV w package żeby krótsze importy móc robić!!!!
 yarn + webpack = opisać w dokumentacji skryptty komendy i konfigurację i instalacje
-dodać progressive we apps konfiguracja tego service-worker.js
 własna biblioteka css
 	(resp tabele, grid fleksowy, resp img, clearfix, normalize kontener i fluid kontener) paleta kolorów css:
 	responsive breakpoints, mediaqueries.scss, variables.scss
@@ -21,7 +21,6 @@ własna biblioteka css
 	*szybkie demo gridu i innych klas*
 	plik readme i repo na githubie
 	napisać że inspiracją był miligram css, całość bazuje też na bootstrapie i create react app
-zobaczyć jak działają testy jakiesś, jest np?
 czy mogę zmienić licencję po ejectowaniu?
 
 #do zrobienia kiedy w wolnej chwili
